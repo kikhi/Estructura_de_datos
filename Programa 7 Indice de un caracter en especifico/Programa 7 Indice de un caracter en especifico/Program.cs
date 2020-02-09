@@ -45,12 +45,13 @@ namespace Programa_7_Indice_de_un_caracter_en_especifico
         public static void tamaño(string frase)
         {
             int frase_N;
-
             frase_N = frase.Length;
+
             Console.Clear();
             Console.WriteLine("==============================Tamaño de la frase=================================");
             Console.WriteLine("---------------------------------------------------------------------------------");
-            Console.WriteLine("El tamaño de la palabra es de {0} caracteres", frase_N);
+            Console.WriteLine("ESTO ES SOLO UNA PRUEBA");
+            Console.WriteLine("Al recortar de la primera let {0} caracteres", frase_N);
             Console.WriteLine("---------------------------------------------------------------------------------");
             Console.WriteLine("Teclea cualquier cosapara continuar");
             Console.ReadKey();
@@ -59,11 +60,12 @@ namespace Programa_7_Indice_de_un_caracter_en_especifico
         public static void recortar(string frase)
         {
             string frase_R;
-            frase_R = frase.Substring(1, 2);
+            frase_R = frase.Substring(0, 4);
 
             Console.Clear();
             Console.WriteLine("==============================Tamaño de la frase=================================");
             Console.WriteLine("---------------------------------------------------------------------------------");
+            Console.WriteLine("ESTO ES SOLO UNA PRUEBA");
             Console.WriteLine("recortada es {0}", frase_R);
             Console.WriteLine("---------------------------------------------------------------------------------");
             Console.WriteLine("Teclea cualquier cosapara continuar");
@@ -75,12 +77,12 @@ namespace Programa_7_Indice_de_un_caracter_en_especifico
             int frase_N;
             frase_N = frase.Length;
             string frase_R;
-
-            frase_R = frase.Substring(1, 2);
+            frase_R = frase.Substring(0, 4);
 
             Console.Clear();
             Console.WriteLine("==============================Tamaño de la frase=================================");
             Console.WriteLine("---------------------------------------------------------------------------------");
+            Console.WriteLine("ESTO ES SOLO UNA PRUEBA");
             Console.WriteLine("La palabra tiene {0} caracteres, recortada es {1}", frase_N, frase_R);
             Console.WriteLine("---------------------------------------------------------------------------------");
             Console.WriteLine("Teclea cualquier cosapara continuar");
