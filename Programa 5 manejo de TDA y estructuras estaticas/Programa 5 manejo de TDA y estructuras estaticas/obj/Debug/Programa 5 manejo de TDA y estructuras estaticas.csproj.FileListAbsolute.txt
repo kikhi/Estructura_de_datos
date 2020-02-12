@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\bin\Debug\Programa 5 manejo de TDA y estructuras estaticas.exe.config
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\bin\Debug\Programa 5 manejo de TDA y estructuras estaticas.exe
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\bin\Debug\Programa 5 manejo de TDA y estructuras estaticas.pdb
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\obj\Debug\Programa 5 manejo de TDA y estructuras estaticas.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\obj\Debug\Programa 5 manejo de TDA y estructuras estaticas.exe
+C:\Users\Familiar\Desktop\Programa 5 manejo de TDA y estructuras estaticas\Programa 5 manejo de TDA y estructuras estaticas\obj\Debug\Programa 5 manejo de TDA y estructuras estaticas.pdb
