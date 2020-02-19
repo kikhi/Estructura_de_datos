@@ -1,0 +1,12 @@
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.exe.config
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.exe
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.pdb
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.exe
+C:\Users\Cesar\Desktop\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.pdb
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.exe.config
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.exe
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\bin\Debug\Programa 7 Indice de un caracter en especifico.pdb
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.exe
+C:\Users\Cesar\Desktop\Estructura_de_datos\Programa 7 Indice de un caracter en especifico\Programa 7 Indice de un caracter en especifico\obj\Debug\Programa 7 Indice de un caracter en especifico.pdb

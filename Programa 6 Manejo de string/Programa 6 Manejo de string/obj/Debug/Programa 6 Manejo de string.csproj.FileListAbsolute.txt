@@ -1,0 +1,6 @@
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\bin\Debug\Programa 6 Manejo de string.exe.config
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\bin\Debug\Programa 6 Manejo de string.exe
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\bin\Debug\Programa 6 Manejo de string.pdb
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\obj\Debug\Programa 6 Manejo de string.csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\obj\Debug\Programa 6 Manejo de string.exe
+C:\Users\Cesar\Desktop\Pilis pays\Programa 6 Manejo de string\Programa 6 Manejo de string\obj\Debug\Programa 6 Manejo de string.pdb
