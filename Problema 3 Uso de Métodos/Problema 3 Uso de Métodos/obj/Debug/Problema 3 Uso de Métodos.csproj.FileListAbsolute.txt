@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\obj\Debug\Problema 3 Uso de Métodos.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\bin\Debug\Problema 3 Uso de Métodos.exe.config
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\bin\Debug\Problema 3 Uso de Métodos.exe
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\bin\Debug\Problema 3 Uso de Métodos.pdb
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\obj\Debug\Problema 3 Uso de Métodos.exe
+C:\Users\Familiar\Desktop\Problema 3 Uso de Métodos\Problema 3 Uso de Métodos\obj\Debug\Problema 3 Uso de Métodos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\bin\Debug\Problema 1 General.exe.config
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\bin\Debug\Problema 1 General.exe
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\bin\Debug\Problema 1 General.pdb
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\obj\Debug\Problema 1 General.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\obj\Debug\Problema 1 General.exe
+C:\Users\Familiar\Desktop\Problema 1 General\Problema 1 General\obj\Debug\Problema 1 General.pdb

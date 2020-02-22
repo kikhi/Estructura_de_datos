@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\bin\Debug\Problema 2 Manejo de Módulos.exe.config
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\bin\Debug\Problema 2 Manejo de Módulos.exe
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\bin\Debug\Problema 2 Manejo de Módulos.pdb
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\obj\Debug\Problema 2 Manejo de Módulos.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\obj\Debug\Problema 2 Manejo de Módulos.exe
+C:\Users\Familiar\Desktop\Problema 2 Manejo de Módulos\Problema 2 Manejo de Módulos\obj\Debug\Problema 2 Manejo de Módulos.pdb
