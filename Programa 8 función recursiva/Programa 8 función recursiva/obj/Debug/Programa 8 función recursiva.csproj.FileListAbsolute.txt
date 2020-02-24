@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\bin\Debug\Programa 8 función recursiva.exe.config
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\bin\Debug\Programa 8 función recursiva.exe
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\bin\Debug\Programa 8 función recursiva.pdb
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\obj\Debug\Programa 8 función recursiva.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\obj\Debug\Programa 8 función recursiva.exe
+C:\Users\Familiar\Desktop\Programa 8 función recursiva\Programa 8 función recursiva\obj\Debug\Programa 8 función recursiva.pdb
