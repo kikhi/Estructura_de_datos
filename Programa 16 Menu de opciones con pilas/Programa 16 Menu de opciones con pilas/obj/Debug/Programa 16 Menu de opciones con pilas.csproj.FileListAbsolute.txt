@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.exe.config
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.exe
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.pdb
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.exe
+C:\Users\PC\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.pdb
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.exe.config
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.exe
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\bin\Debug\Programa 16 Menu de opciones con pilas.pdb
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.exe
+C:\Users\Familiar\Desktop\Programa 16 Menu de opciones con pilas\Programa 16 Menu de opciones con pilas\obj\Debug\Programa 16 Menu de opciones con pilas.pdb

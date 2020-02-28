@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 12 recursivo directo", "Problema 12 recursivo directo\Problema 12 recursivo directo.csproj", "{DF331BBA-A6B3-411A-8C25-7B84CF26099B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF331BBA-A6B3-411A-8C25-7B84CF26099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF331BBA-A6B3-411A-8C25-7B84CF26099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF331BBA-A6B3-411A-8C25-7B84CF26099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF331BBA-A6B3-411A-8C25-7B84CF26099B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D1E6ED9-8124-4937-94C3-B36D3F388303}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\bin\Debug\Problema 12 recursivo directo.exe.config
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\bin\Debug\Problema 12 recursivo directo.exe
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\bin\Debug\Problema 12 recursivo directo.pdb
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\obj\Debug\Problema 12 recursivo directo.csprojAssemblyReference.cache
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\obj\Debug\Problema 12 recursivo directo.exe
+C:\Users\Familiar\Desktop\Problema 12 recursivo directo\Problema 12 recursivo directo\obj\Debug\Problema 12 recursivo directo.pdb
