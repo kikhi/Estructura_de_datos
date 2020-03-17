@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa 14 uso de pilas con stack", "Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack.csproj", "{C5C6A4B4-3EE5-4CF0-AC02-04D5AE3A4061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C6A4B4-3EE5-4CF0-AC02-04D5AE3A4061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C6A4B4-3EE5-4CF0-AC02-04D5AE3A4061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C6A4B4-3EE5-4CF0-AC02-04D5AE3A4061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C6A4B4-3EE5-4CF0-AC02-04D5AE3A4061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BBA625A-6F36-4A4F-B31C-476CA32D7A83}
+	EndGlobalSection
+EndGlobal

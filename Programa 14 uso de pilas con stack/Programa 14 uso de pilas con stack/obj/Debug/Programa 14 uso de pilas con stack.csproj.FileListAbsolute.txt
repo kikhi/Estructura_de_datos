@@ -1,0 +1,6 @@
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\bin\Debug\Programa 14 uso de pilas con stack.exe.config
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\bin\Debug\Programa 14 uso de pilas con stack.exe
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\bin\Debug\Programa 14 uso de pilas con stack.pdb
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\obj\Debug\Programa 14 uso de pilas con stack.csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\obj\Debug\Programa 14 uso de pilas con stack.exe
+C:\Users\Cesar\Desktop\Programa 14 uso de pilas con stack\Programa 14 uso de pilas con stack\obj\Debug\Programa 14 uso de pilas con stack.pdb

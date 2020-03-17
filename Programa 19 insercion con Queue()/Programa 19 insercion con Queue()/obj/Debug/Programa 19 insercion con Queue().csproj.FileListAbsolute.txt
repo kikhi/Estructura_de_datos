@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().exe.config
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().exe
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().pdb
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().exe
+C:\Users\PC\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().pdb
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().exe.config
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().exe
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\bin\Debug\Programa 19 insercion con Queue().pdb
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().csprojAssemblyReference.cache
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().exe
+C:\Users\Cesar\Desktop\Programa 19 insercion con Queue()\Programa 19 insercion con Queue()\obj\Debug\Programa 19 insercion con Queue().pdb
