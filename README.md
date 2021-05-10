@@ -11,4 +11,9 @@
 <p align="center"> |                       Docente: <a href="" > Claudia Negrete Sanchez                   |</a> <p>
 <p align="center">==========================================================================================</p>
 
+
+|  Cesar Andres Trujillo Garay          |
+|      Estructura de datos              |
+|Docente: Claudia Negrete Sanchez       |
+
 <p align="center"> <img src="https://github.com/kikhi/POO/blob/master/Imagenes/INGsistemas.png?raw=true" alt="Ing Sistemas" width="100%" height="100%"> <p align="center"> 
