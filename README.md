@@ -8,9 +8,18 @@
 
 <h3 align="center">|                        Ingenieria en sistemas computacionales                         |</h3>
 
-<p align="center"> |                       Docente: <a href="" > Claudia Negrete Sanchez                   |</a> <p>
+<p align="center"> |                       Docente: <a href="" > Claudia Negrete Sanchez              </a> |<p>
 <p align="center">==========================================================================================</p>
 
+
+```
+====================================================
+|             Cesar Andres Trujillo Garay          |
+|                 Estructura de datos              |
+|            Docente: Claudia Negrete Sanchez      |
+====================================================
+
+```
 
 |  Cesar Andres Trujillo Garay          |
 |      Estructura de datos              |
